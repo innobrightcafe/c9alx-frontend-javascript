@@ -1,4 +1,3 @@
-export default getNeighborhoodsList;
 const getNeighborhoodsList = () => {
   const sanFranciscoNeighborhoods = ['SOMA', 'Union Square'];
 
@@ -9,3 +8,5 @@ const getNeighborhoodsList = () => {
 
   return { addNeighborhood };
 };
+
+export default getNeighborhoodsList;
