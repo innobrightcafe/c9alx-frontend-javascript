@@ -16,10 +16,11 @@
     "@babel/node": "^7.22.5",
     "@babel/preset-env": "^7.22.5",
     "babel-jest": "^29.5.0",
-    "eslint": "^6.8.0",
+    "eslint": "^8.44.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jest": "^22.17.0",
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "prettier": "^2.8.8"
   }
 }
