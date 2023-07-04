@@ -1,4 +1,4 @@
-export default const weakMap = new WeakMap();
+const weakMap = new WeakMap();
 
 function queryAPI(endpoint) {
   if (!weakMap.has(endpoint)) {
