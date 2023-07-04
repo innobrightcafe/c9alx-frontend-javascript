@@ -17,3 +17,4 @@ export default function getListStudents() {
     }
     return [obj1, obj2, obj3];
   }
+  
